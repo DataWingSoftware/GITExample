@@ -14,7 +14,8 @@ namespace GitExample
 
         private int TestingGIT()
         {
-            return 1;
+            //ToDo - Adding some really awesome changes!!!!
+            return 1 * 1;
         }
     }
 }
